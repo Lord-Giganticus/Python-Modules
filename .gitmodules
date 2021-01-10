@@ -1,3 +1,6 @@
 [submodule "modules/error"]
 	path = modules/error
 	url = https://github.com/Lord-Giganticus/error.py
+[submodule "modules/checker"]
+	path = modules/checker
+	url = https://github.com/Lord-Giganticus/checker
