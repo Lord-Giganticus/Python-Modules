@@ -1,0 +1,3 @@
+[submodule "modules/error"]
+	path = modules/error
+	url = https://github.com/Lord-Giganticus/error.py
