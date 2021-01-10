@@ -4,6 +4,7 @@ def skip():
     time.sleep(2)
 try:
     from checker import checker
+    checker.extension.checker()
 except:
     skip()
 try:
